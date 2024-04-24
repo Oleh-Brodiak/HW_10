@@ -1,0 +1,16 @@
+  112  git status
+  113  git add develop_test.txt
+  114  git status
+  115  git commit -m "four comit"
+  116  git checkout main
+  117  git branch
+  118  git log
+  119  git checkout develop
+  120  git branch
+  121  git log
+  122  git checkout main
+  123  git merge develop 
+  124  git log
+  125  git add 
+  126  git add main
+  127  git push
